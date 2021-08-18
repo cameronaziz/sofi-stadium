@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Sofi Stadium",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
